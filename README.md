@@ -1,6 +1,6 @@
 ![I am a MS Data Platform BI Consultant](https://github.com/kaysauter/kaysauter/blob/main/KayOnData-github.jpg)
 
-### Hi there 👋, My name is Kay Sauter (he/him)
+### Hi there 👋, my name is Kay Sauter (he/him)
 #### I am a MS Data Platform BI Consultant, working for [OneDigit AG](https://www.onedigit.ch/)
 
 
